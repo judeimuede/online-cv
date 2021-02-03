@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Jude Imuede
-    tagline: Full Stack Developer
+    tagline: Cloud Engineer and Research
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: judeimuede@gmail.com
+    phone: 063 458 0026
+    # website: blog.webjeda.com #do not add http://
+    linkedin: judeimuede
+    github: judeimuede
+    # telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@judeimuede'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,35 +29,37 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      #- idiom: French
+      #  level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      #- idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Climbing
+      - item: Chess
         link:
 
-      - item: Snowboarding
+      - item: Walking
         link:
 
       - item: Cooking
+        link:
+      
+      - item: Football
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      While my background is in core enterprise network infrastructure with service offering ranging 
+      from consultancy to design, deployment and management, my current interest and role are in 
+      research (academic and industry) and digitising use cases in optimising service computing though 
+      cloud engineering. You can [download this free resume/CV template here]().
+      
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of the Witwatersrand
+      time: 2017 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,21 +68,24 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: University of Abuja
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - RELEVANT COURSEWORK: Artificial Intelligence, Software Design and Management, 
+            Data Communication and Networking, Computer Programming I and II, Compiler Construction,
+            Non Parametric Inference.
+          - RESEARCH REPORT: My Honours research report was on Cyberspace Analytic for E-mail Spam Detection.
+            Achieved an A Grade for Design Project and Research.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cloud Engineer
+      time: 2020 - Present
+      company: Synthesis Software Technologies, Johannesburg, SA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
