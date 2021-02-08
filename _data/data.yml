@@ -63,7 +63,7 @@ education:
       university: University of the Witwatersrand
       time: 2017 - 2019
       details: |
-        A thesis-based degree which was about using Node.js and Google’s TensorFlow Estimator for textual and 
+        A thesis-based degree about using Node.js and Google’s TensorFlow Estimator for textual and 
         data analytic insight generation. This research explored Web-based services such as Elasticsearch and 
         Kibana integrated on Node.js run time. Internal examiner awarded the Distinction for this research.
           - Dissertation Topi: Mining Sexual Violence Tweets in South Africa
@@ -90,7 +90,7 @@ experiences:
         the Cloud Operations and Workloads Migration Strategy on Scalability and Disaster Recovery.
           - Implementing AWS service offerings to optimise service computing through AWS Cloud Development  
             Kit (CDK) for Infrastructure as Code (IaC) using Typescript and Python to emit synthesised 
-            CloudFormation template}
+            CloudFormation template.
           - Assisting Managed Service Providers (MSP) team on customer projects for an architected 
             environment on AWS using working practices and disciplines such as agile software methodologies
             (SCRUM, KANBAN, XP, etc)
@@ -98,8 +98,6 @@ experiences:
             alarms and assist with developing highly available and resilient architecture, workflows and 
             process maps
           - Working directly with users of the cloud to support failures in the automation or portal usage
-          - Offering problem management reviews to identify known issues
-          - Participating in daily huddles to identify improvement opportunities
           - Improving team efficiency and performance, with use of scripts or tools where possible, 
             Automate processes cautiously to save manual work
           - Working with partners to ensure proper service-level agreements (SLAs) 
