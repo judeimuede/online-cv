@@ -39,68 +39,81 @@ sidebar:
       - item: Chess
         link:
 
-      - item: Walking
+      - item: Coding
         link:
 
       - item: Cooking
         link:
-      
+
       - item: Football
         link:
 
+      - item: Walking
+        link:
 career-profile:
     title: Career Profile
     summary: |
       While my background is in core enterprise network infrastructure with service offering ranging 
       from consultancy to design, deployment and management, my current interest and role are in 
-      research (academic and industry) and digitising use cases in optimising service computing though 
-      cloud engineering. You can [download this free resume/CV template here]().
+      research (academic and industry) and digitising use cases in optimising service computing through 
+      cloud engineering.
       
 education:
     - degree: MSc in Computer Science
       university: University of the Witwatersrand
       time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        A thesis-based degree which was about using Node.js and Google’s TensorFlow Estimator for textual and 
+        data analytic insight generation. This research explored Web-based services such as Elasticsearch and 
+        Kibana integrated on Node.js run time. Internal examiner awarded the Distinction for this research.
+          - Dissertation Topi: Mining Sexual Violence Tweets in South Africa
+          - Supervisor: Dr Pravesh Ranchod
+
     - degree: BSc in Computer Science
       university: University of Abuja
       time: 2006 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - RELEVANT COURSEWORK: Artificial Intelligence, Software Design and Management, 
+        My Honours research report was on Cyberspace Analytic for E-mail Spam Detection.
+        Achieved an A Grade for Design Project and Research.
+          - Relevant Coursework: Artificial Intelligence, Software Design and Management, 
             Data Communication and Networking, Computer Programming I and II, Compiler Construction,
             Non Parametric Inference.
-          - RESEARCH REPORT: My Honours research report was on Cyberspace Analytic for E-mail Spam Detection.
-            Achieved an A Grade for Design Project and Research.
+          - Advisor: Prof Owolabi Olumide
+          
 experiences:
     - role: Cloud Engineer
       time: 2020 - Present
-      company: Synthesis Software Technologies, Johannesburg, SA
+      company: Synthesis Software Technologies, Johannesburg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        The role of cloud engineer is responsible for carrying out cloud computing technical tasks. 
+        This can range from the design and maintenance of cloud software and systems. In particular, 
+        the Cloud Operations and Workloads Migration Strategy on Scalability and Disaster Recovery.
+          - Implementing AWS service offerings to optimise service computing through AWS Cloud Development  
+            Kit (CDK) for Infrastructure as Code (IaC) using Typescript and Python to emit synthesised 
+            CloudFormation template}
+          - Assisting Managed Service Providers (MSP) team on customer projects for an architected 
+            environment on AWS using working practices and disciplines such as agile software methodologies
+            (SCRUM, KANBAN, XP, etc)
+          - Creating and maintaining accurate documentation on activities performed such as CloudWatch 
+            alarms and assist with developing highly available and resilient architecture, workflows and 
+            process maps
+          - Working directly with users of the cloud to support failures in the automation or portal usage
+          - Offering problem management reviews to identify known issues
+          - Participating in daily huddles to identify improvement opportunities
+          - Improving team efficiency and performance, with use of scripts or tools where possible, 
+            Automate processes cautiously to save manual work
+          - Working with partners to ensure proper service-level agreements (SLAs) 
+            (Cloud Service providers, 3rd Party software providers)
+          - Working closely with the Network and Storage teams to ensure smooth operations and communicate 
+            effectively to avoid unexpected outages/downtime
+          - Participating in all meetings and work with other peers on the infrastructure team to successfully 
+            provide world class support to our Customers
+          - Providing AWS well-architecture consulting to various development and operations teams
+
+
+    - role: Network  and Security Support Engineer
+      time: 2014 - 2017
+      company: AIM Group and Coollink ISP, Abuja
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
